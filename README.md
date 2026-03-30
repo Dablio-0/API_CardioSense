@@ -75,7 +75,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Intruduction
 
-This is a Laravel project that serves as the backend for the CardioSense project. It is a RESTful API that provides endpoints for the frontend and a prototype, a heart sensor, to interact with the database. The project is still in development and is not yet ready for production.
+This is a Laravel project that serves as the backend for the CardioSense project. It is a RESTfull API that provides endpoints for the frontend and a prototype, a heart sensor, to interact with the database. The project is still in development and is not yet ready for production.
 
 ## Technologies
 
